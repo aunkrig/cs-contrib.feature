@@ -2,7 +2,7 @@
 <feature
       id="de.unkrig.cs-contrib"
       label="cs-contrib"
-      version="1.2.21.qualifier"
+      version="1.2.22.qualifier"
       provider-name="Arno Unkrig"
       plugin="de.unkrig.cs-contrib.branding">
 
@@ -54,13 +54,13 @@ THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS&apos;&apos; AND ANY EXPRESS OR I
          id="de.unkrig.cs-contrib.branding"
          download-size="0"
          install-size="0"
-         version="1.2.21.qualifier"/>
+         version="1.2.22.qualifier"/>
 
    <plugin
          id="de.unkrig.cs-contrib.core"
          download-size="0"
          install-size="0"
-         version="1.2.21.qualifier"
+         version="1.2.22.qualifier"
          unpack="false"/>
 
 </feature>
